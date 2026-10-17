@@ -132,7 +132,11 @@ The full bibliographic reference and DOI should be added here once the publicati
 
 ## Acknowledgements
 
-The research is associated with the Horizon Europe project FUTUREFOR — *Copernicus Applications for Next-Generation Forest Monitoring* (Grant Agreement No. 101180278), as well as projects supported by the Ministry of Education and Science of Ukraine “Next-generation Copernicus services: an intelligent digital twin for forest cover analysis in Ukraine” (the Order of the Ministry of Education and Science of Ukraine dated 09.01.2026 № 23).
+The study was supported by 
+1) the **HORIZON Europe** project FUTUREFOR №101180278 “Copernicus Applications for Next-Generation Forest Monitoring”,
+2) **Ministry of Education and Science of Ukraine** projects (“Next-generation Copernicus services: an intelligent digital twin for forest cover analysis in Ukraine” (the Order of the Ministry of Education and Science of Ukraine dated 09.01.2026 № 23)), projects for young scientists “Machine learning methods with adaptive multimodal data fusion for cross-regional transfer of land cover classification models” and “State space models for environmental changes assessment” (the Order of the Ministry of Education and Science of Ukraine dated 09.01.2026 № 22),
+3) **NASA** projects “Assessment Of The Impact Of War In Ukraine On National Protected Areas” (award number 80NSSC25K7652) and “Detecting and Mapping War-induced Damage to Agricultural Fields in Ukraine using Multi-Modal Remote Sensing Data” (award number: 80NSSC24K0354),
+4) **NASU** project “Information technologies for monitoring changes in Ukraine's forest cover as a result of military operations using geospatial data”.
 
 ## License
 
